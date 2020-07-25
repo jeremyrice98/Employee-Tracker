@@ -5,9 +5,7 @@ const mysql = require("mysql2");
 
 // Start Inquirer Prompts
 const askQuestions = function() {
-    console.log("****************************************************************");
-    console.log("*----------------------------WELCOME---------------------------*");
-    console.log("****************************************************************");
+    
   inquirer
     .prompt({
       type: "list",
