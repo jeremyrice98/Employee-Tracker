@@ -12,9 +12,9 @@
     "seed": "^0.4.4"
   },
   "devDependencies": {},
-    "scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-   
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,5 @@
   "bugs": {
     "url": "https://github.com/jeremyrice98/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/jeremyrice98/Employee-Tracker#readme",
-  
+  "homepage": "https://github.com/jeremyrice98/Employee-Tracker#readme"
 }
