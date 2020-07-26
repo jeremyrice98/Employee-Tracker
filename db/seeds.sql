@@ -1,10 +1,10 @@
-USE employee_trackerDB
+USE employee_tracker
 
 INSERT INTO department (id, name)
 VALUES 
-    (1, "Management"),
+    (1, "Manager"),
     (2, "HR"),
-    (3, "Sales");
+    (3, "IT");
 
 INSERT INTO role (id, title, salary, department_id)
 VALUES 
