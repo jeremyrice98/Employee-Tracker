@@ -32,10 +32,10 @@ After you install and the program using "npm start", you are able to view all cu
 ## **CONTRIBUTING**  
 > 1. [Node.js](https://nodejs.org/en/)
 > 2. [Node Package Manager](https://www.npmjs.com/)
->   -[Inquirer](https://www.npmjs.com/package/inquirer)
->   -[Express](https://www.npmjs.com/package/express)
->   -[console.table](https://www.npmjs.com/package/console.table)
->   -[MySQL2](https://www.npmjs.com/package/mysql2)
+>   - [Inquirer](https://www.npmjs.com/package/inquirer)
+>   - [Express](https://www.npmjs.com/package/express)
+>   - [console.table](https://www.npmjs.com/package/console.table)
+>   - [MySQL2](https://www.npmjs.com/package/mysql2)
 > 3. [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   
 ## **TESTS**  
